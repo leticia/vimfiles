@@ -453,3 +453,6 @@ else
   map <leader>/ <plug>NERDCommenterToggle<CR>
   imap <leader>/ <Esc><plug>NERDCommenterToggle<CR
 endif
+
+"Powerline
+let g:Powerline_symbols = 'fancy'
